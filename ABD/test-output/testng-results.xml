@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-08-18T16:35:26 IST" name="Default suite" finished-at="2022-08-18T16:35:33 IST" duration-ms="7761">
+    <groups>
+    </groups>
+    <test started-at="2022-08-18T16:35:26 IST" name="Default test" finished-at="2022-08-18T16:35:33 IST" duration-ms="7761">
+      <class name="coaching.JxlData">
+        <test-method signature="login(java.lang.String,java.lang.String)[pri:0, instance:coaching.JxlData@8f4ea7c]" started-at="2022-08-18T16:35:26 IST" name="login" data-provider="loginData" finished-at="2022-08-18T16:35:30 IST" duration-ms="4449" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[tinku]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[121212]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method signature="login(java.lang.String,java.lang.String)[pri:0, instance:coaching.JxlData@8f4ea7c]" started-at="2022-08-18T16:35:30 IST" name="login" data-provider="loginData" finished-at="2022-08-18T16:35:33 IST" duration-ms="3017" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[suriya]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[199601]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+      </class> <!-- coaching.JxlData -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
